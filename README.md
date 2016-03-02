@@ -23,3 +23,6 @@ webdriver-manager start
 
 [WebDriver](http://localhost:4444/wd/hub)
 
+```bash
+ http://localhost:4444/wd/hub
+```
