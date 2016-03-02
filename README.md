@@ -1,7 +1,6 @@
 [![NPM](http://marcysutton.com/slides/fluent2015/img/protractor-logo.png)](http://marcysutton.com/slides/fluent2015/img/protractor-logo.png)
 ## Protractor ( Install )
 ```bash
-*** Admin Command Prompt ( Windows ) ***
 [sudo] npm install -g protractor
 ```
 
@@ -10,7 +9,7 @@
 protractor --version
 ```
 
-## WebDriver-Manager ( install )
+## WebDriver-Manager ( update )
 ```bash
 webdriver-manager update
 ```
@@ -20,7 +19,7 @@ webdriver-manager update
 webdriver-manager start
 ```
 
-## WebDriver ( Server Status )
+## WebDriver ( Server )
 
 [WebDriver](http://localhost:4444/wd/hub)
 
